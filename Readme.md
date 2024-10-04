@@ -1,3 +1,3 @@
 ## Customer Insight Segmentation APP
-“This Streamlit app assigns customers into new segments based on their attributes, allowing businesses to better target their marketing strategies."
+
 [You can reach the application here.](https://segments.streamlit.app/)
