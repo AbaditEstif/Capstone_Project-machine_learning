@@ -1,1 +1,2 @@
-Capstone milestone 1 [Capstone- milestone1_final.docx](https://github.com/user-attachments/files/17368452/Capstone-.milestone1_final.docx)
+## Complete capstone documentation pdf
+[View the project documentation](https://github.com/AbaditEstif/Capstone_Project-machine_learning/blob/main/Complete%20Capstone%20Project.pdf)
